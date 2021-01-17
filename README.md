@@ -2,7 +2,7 @@
 
 Live: https://mister-josuecedeno.github.io/page-with-parallax/
 
-![Small GIF (400x400)](https://user-images.githubusercontent.com/47830532/104859201-13ef3480-58e9-11eb-9b5b-ad673f8a37fe.gif)
+https://user-images.githubusercontent.com/47830532/104859292-d212be00-58e9-11eb-96e8-c639e512e45a.mp4
 
 ## Objective
 
