@@ -11,19 +11,19 @@ section {
 }
 
 .sec1 {
-  background: url('/img/morning.jpg');
+  background: url('../img/morning.jpg');
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
 }
 .sec2 {
-  background: url('/img/afternoon.jpg');
+  background: url('../img/afternoon.jpg');
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
 }
 .sec3 {
-  background: url('/img/morning.jpg');
+  background: url('../img/morning.jpg');
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
