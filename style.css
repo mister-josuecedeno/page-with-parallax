@@ -11,19 +11,19 @@ section {
 }
 
 .sec1 {
-  background: url('https://github.com/mister-josuecedeno/page-with-parallax/blob/main/morning.jpg');
+  background: url('morning.jpg');
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
 }
 .sec2 {
-  background: url('afternoon.JPG');
+  background: url('afternoon.jpg');
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
 }
 .sec3 {
-  background: url('morning.JPG');
+  background: url('morning.jpg');
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
